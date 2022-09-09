@@ -1,4 +1,4 @@
-package com.kedar.websocket.messagingstompwebsocket;
+package websocket;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
